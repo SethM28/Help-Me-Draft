@@ -1,0 +1,42 @@
+body {
+    background-image: url(../images/crystal.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.heading {
+    text-align: center;
+    color: white;
+}
+
+p,h1,h2,h3 {
+    color: white;
+}
+
+nav {
+    background:linear-gradient(red, blue);
+    border-radius: 15px;
+}
+
+.navlinks {
+    display: flex;
+    align-items: center;
+}
+
+.navlinks li {
+    padding: 5px 6px;
+    list-style-type: none;
+}
+
+.navlinks a {
+    color: white;
+}
+
+.navlinks a:hover {
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+    border: 5px;
+}
