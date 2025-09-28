@@ -3,6 +3,8 @@
     border: 2px solid white;
     border-radius: 15px;
     padding: 2px 3px;
+    margin-left:5px;
+    margin-right:5px;
     }
 .sub a {color: white;}
 .sub a:hover {background-color:white;
